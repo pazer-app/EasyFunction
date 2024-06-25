@@ -1,0 +1,13 @@
+{
+  "name": "pazer-app/easy-function",
+  "description": "Pazer.app / Easy Function",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "PazerApp\\EasyFunction\\": "src/"
+    }
+  },
+  "license": "MIT"
+}
